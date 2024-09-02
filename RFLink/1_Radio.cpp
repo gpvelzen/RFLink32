@@ -75,7 +75,7 @@ namespace RFLink { namespace Radio  {
 
       const int32_t default_frequency = 433920000;
       const int32_t default_BitRate = 9600;
-      const int32_t default_rxBandwidth = 250000;
+      const int32_t default_rxBandwidth = 203000;
 
       int32_t frequency;
       int32_t rxBandwidth;
